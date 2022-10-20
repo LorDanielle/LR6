@@ -48,19 +48,19 @@
   ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/14.png)  
 10) Удаляем побочную ветку после успешного слияния. 
   Для этого вводим команду git branch --delete branch1  
-  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/14.png) 
+  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/15.png) 
 11) Сохраняем изменения с помощью команд git add . и git commit -m "<Massage>"  
-  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/15.png)  
+  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/16.png)  
 12) Делаем откат коммита  
   Для этого вводим git reset --soft HEAD~  
-  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/16.png)  
+  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/17.png)  
 13) Создаём ветку для отчета  
   Для этого вводим git checkout -b "<название>"  
-  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/17.png)  
+  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/18.png)  
 14) Оформляем отчет  
 15) Получаем историю операций в форматированном виде и сохраняем изменения  
   Для этого вводим команду git log --pretty=medium --abbrev-commit  
-  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/18.png)  
+  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/19.png)  
 16) Отправляем локальные изменения в сетевое хранилище GitHub  
   Для этого вводим команду git push  
 ## Вывод:  
