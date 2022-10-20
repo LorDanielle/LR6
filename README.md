@@ -10,6 +10,6 @@
   для этого вводим команды:
   git config user.name "<имя>"
   git config user.email "<почта>"
-  !(https://github.com/LorDanielle/LR6/blob/master/Screenshots/1.jpg)
+  ![](https://github.com/LorDanielle/LR6/blob/master/Screenshots/1.jpg)
 6) Клонируем свой личный удалённый репозиторий на компьютер.
 7) 
